@@ -27,6 +27,7 @@ body{
     display: flex;
 }
 
+
 .name{
     align-self: center;
     margin-left: 15px;
@@ -35,7 +36,8 @@ body{
     color: white;
 }
 .name p:last-child{
-    color: hsl(0, 0%, 81%);
+    color: white;
+    opacity: .5;
     font-size: small;
 }
 .textd{
@@ -47,7 +49,8 @@ body{
  padding-right: 20px;
  margin-top: 16px ;
  font-size: 14px;
- color: hsl(0, 0%, 81%);
+ color: white;
+ opacity: .7;
  line-height: 20px;
 }
 
@@ -70,7 +73,8 @@ body{
     color: white;
 }
 .name2 p:last-child{
-    color: hsl(0, 0%, 81%);
+    color: white;
+    opacity: .5;
     font-size: small;
 }
 .textj{
@@ -82,7 +86,8 @@ body{
  padding-right: 20px;
  margin-top: 16px ;
  font-size: 14px;
- color: hsl(0, 0%, 81%);
+ color: white;
+ opacity: .7;
  line-height: 20px;
 }
 
@@ -105,7 +110,8 @@ body{
     color: hsl(217, 19%, 35%);
 }
 .name3 p:last-child{
-    color: hsl(0, 0%, 81%);
+    color: hsl(217, 19%, 35%);
+    opacity: .5;
     font-size: small;
 }
 .textja{
@@ -118,6 +124,7 @@ body{
  margin-top: 16px ;
  font-size: 14px;
  color: hsl(217, 19%, 35%);
+ opacity: .7;
  line-height: 20px;
 }
 
@@ -139,7 +146,8 @@ body{
     color: white;
 }
 .name4 p:last-child{
-    color: hsl(0, 0%, 81%);
+    color: white;
+    opacity: .5;
     font-size: small;
 
     
@@ -153,7 +161,8 @@ body{
  padding-right: 20px;
  margin-top: 16px ;
  font-size: 14px;
- color: hsl(0, 0%, 81%);
+ color: white;
+ opacity: .7;
  line-height: 20px;
 }
 .container5{
@@ -174,7 +183,8 @@ body{
     color:hsl(217, 19%, 35%);
 }
 .name5 p:last-child{
-    color: hsl(0, 0%, 81%);
+    color: hsl(217, 19%, 35%);
+    opacity: .5;
     
 }
 .textk{
@@ -188,6 +198,7 @@ body{
  margin-top: 16px ;
  font-size: 14px;
  color: hsl(217, 19%, 35%);
+ opacity: .7;
  line-height: 20px;
 }
 img{
